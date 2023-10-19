@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrFlorensio!
-- 🌱 I’m currently learning Gulag Archipelago, Alexander Solzhenitsyn and 1984, George Orwell.
+- 🌱 HTML, JavaScript, CSS learned. Im just web-developer 
 - 📫 My discord — Mr.Florensio#1529
 
 <!---

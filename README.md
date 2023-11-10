@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrFlorensio!
+- 👋 Hi, I’m Egor!
 - 🌱 HTML, JavaScript, CSS learned. Im just web-developer 
 - 📫 My discord — mr.florensio (Mr.Florensio#1529)
 
